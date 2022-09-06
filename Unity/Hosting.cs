@@ -7,7 +7,7 @@ public static class Hosting
 {
     public static string Adress()
     {
-        return "http://f0679564.xsph.ru/DogHorror/";
+        return "http://youtubekiller.ru";
     }
     public static string UpdateStats()
     {
